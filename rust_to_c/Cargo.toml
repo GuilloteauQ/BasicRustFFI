@@ -1,0 +1,13 @@
+[package]
+name = "rust_to_c"
+version = "0.1.0"
+authors = ["taitnet"]
+edition = "2018"
+build = "build.rs"
+
+[lib]
+name = "add"
+path = "src/lib.rs"
+crate-type = ["staticlib"]
+
+[dependencies]
