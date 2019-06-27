@@ -5,3 +5,7 @@ Some basic examples for Rust FFI
 
 ## [C to Rust](https://github.com/GuilloteauQ/BasicRustFFI/tree/master/c_to_rust)
 
+
+## TODO
+
+ - [ ] Write about C types
