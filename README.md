@@ -1,2 +1,2 @@
 # BasicRustFFI
-Some basic example for Rust FFI
+Some basic examples for Rust FFI
