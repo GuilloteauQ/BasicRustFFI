@@ -1,5 +1,7 @@
 # BasicRustFFI
-Some basic examples for Rust FFI
+Some basic examples for Rust FFI (mainly a reminder for me)
+
+
 
 ## [Rust to C](https://github.com/GuilloteauQ/BasicRustFFI/tree/master/rust_to_c)
 
@@ -9,3 +11,4 @@ Some basic examples for Rust FFI
 ## TODO
 
  - [ ] Write about C types
+ - [ ] Add links to external ressources
