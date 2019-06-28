@@ -10,7 +10,8 @@ Some basic examples for Rust FFI (mainly a reminder for me)
 ## External Sources
 
 * The Rust Book (Unsafe Rust): [link](https://doc.rust-lang.org/stable/book/ch19-01-unsafe-rust.html#using-extern-functions-to-call-external-code)
-* The Embedded Rust Book : [link](https://docs.rust-embedded.org/book/interoperability/index.html)
+* The Embedded Rust Book: [link](https://docs.rust-embedded.org/book/interoperability/index.html)
+* C types for Rust: [link](https://doc.rust-lang.org/std/os/raw/index.html)
 
 
 ## TODO
