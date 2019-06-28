@@ -1,5 +1,5 @@
 # BasicRustFFI
-Some basic examples for Rust FFI (mainly a reminder for myself)
+Some basic examples for Rust FFI
 
 
 
