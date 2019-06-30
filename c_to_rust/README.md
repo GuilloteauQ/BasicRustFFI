@@ -77,6 +77,19 @@ extern "C" {
 ```
 TODO: Write about types
 
+If the function comes from a standard C library (e.g. OpenSSL ...), we can directly link the functions to this library in the code.
+
+```rust
+// main.rs
+
+#[link(name = "ssl")]
+extern "C" {
+    fn MD5(d: *const c_char, n: c_long, md: *const c_char);
+    // ...
+}
+```
+In this case we do not have to link to the library in the ``build.rs`` file (see step 2.2).
+
 ### Step 3.2: Finally use the C functions
 
 We can now use the C functions in our Rust code.
